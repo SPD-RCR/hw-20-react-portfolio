@@ -1,3 +1,6 @@
+import React from "react";
+import nav from "react-bootstrap/nav";
+
 const Header = () => (
   <div className="container">
   <ul id="gn-menu" className="gn-menu-main">

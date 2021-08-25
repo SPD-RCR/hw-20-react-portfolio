@@ -417,7 +417,7 @@ hr {
   z-index: 1;
 }
 
-.gn-menu-main a {
+.gn-menu-main button {
   display: block;
   height: 100%;
   color: #fff;
